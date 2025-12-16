@@ -4,39 +4,46 @@ This file provides context for the Gemini AI assistant to understand this projec
 
 ## Project Overview
 
-This project, "DJ World," is a DJ "Life Assistant" built with Node.js. Its core purpose is to help DJs manage their music, analyze historical Serato sets, and build setlists for upcoming events. It aims to link to DJ Downloads, integrate with Serato data using `seratojs`, and eventually connect to Apple Music and DJ pools for music discovery.
+This project, "DJ World," is a DJ "Life Assistant" built with Node.js. Its core purpose is to help DJs manage their music by analyzing historical Serato sets to automatically propose and create new "AI Crates" based on predefined rules (e.g., genre, energy, time played).
+
+## Core Workflow: AI Crate Generation
+
+The main workflow involves three steps:
+
+1.  **Generate Library Snapshot:** First, scan your entire Serato library to create a local data file. This gives the AI context of your music.
+    `node src/scripts/generateLibrarySnapshot.js`
+
+2.  **Propose AI Crates:** Next, analyze a Serato history file against your library snapshot. This generates a proposal of new crates based on the rules engine.
+    `node src/scripts/proposeAiCrates.js`
+
+3.  **Approve and Create Crates:** Finally, review the `ai_crate_proposal.json` file and then approve the crates you want, which creates them in your Serato library.
+    `node src/scripts/approveAiCrates.js <id_of_crate_to_approve>`
+    *(Example: `node src/scripts/approveAiCrates.js high_energy_mix`)*
 
 ## Key Files
 
-*   `src/index.js`: The main entry point of the application, controlling the execution of different functionalities (historical data parsing or SeratoJS experiments) based on command-line arguments.
-*   `package.json`: Defines project metadata, dependencies (`csv-parse`, `seratojs`), and scripts.
-*   `README.md`: Provides a high-level overview and description of the project's goals.
+*   `package.json`: Defines project metadata, dependencies, and scripts.
+*   `README.md`: Provides a high-level overview of the project's goals.
 
-## Building and Running
+### Logic Libraries (`src/lib`)
 
-This project is a Node.js application.
+*   `src/lib/seratoReader.js`: Core logic for reading Serato `.crate` files and parsing track metadata from audio files.
+*   `src/lib/historyReader.js`: Utility for parsing Serato's exported CSV history files.
 
-*   **Dependencies:**
-    *   `csv-parse`: Used for parsing CSV files, specifically Serato's exported history.
-    *   `seratojs`: Used for interacting with Serato library data (crates, sessions).
+### Executable Scripts (`src/scripts`)
 
-*   **Install Dependencies:**
-    `npm install`
+*   `src/scripts/generateLibrarySnapshot.js`: The script for **Step 1**. Creates `library_snapshot.json`.
+*   `src/scripts/proposeAiCrates.js`: The script for **Step 2**. Reads the library and a history file, and creates `ai_crate_proposal.json`.
+*   `src/scripts/approveAiCrates.js`: The script for **Step 3**. Takes a crate ID from the proposal and creates a real `.crate` file in Serato.
 
-*   **Run Modes:** The `src/index.js` script supports different operational modes:
-    *   **Historical Data Parsing:** To process an exported Serato history CSV file (e.g., `history.csv` in the project root):
-        `node src/index.js --mode=history`
-    *   **SeratoJS Experiments:** To run experiments or functionalities related to SeratoJS library interaction (this is the default mode if no `--mode` argument is provided):
-        `node src/index.js --mode=seratojs`
-        or simply:
-        `node src/index.js`
+### Data Files
 
-*   **Test:**
-    `npm test` (Currently a placeholder)
+*   `library_snapshot.json`: (Generated) A snapshot of your Serato library's crates and tracks.
+*   `ai_crate_proposal.json`: (Generated) A list of proposed crates and tracks based on analysis.
+*   `history-*.csv`: (User-provided) An exported Serato history file used as input for analysis.
 
-## Development Conventions
+## Dependencies
 
-*   **Language:** JavaScript (Node.js).
-*   **Dependency Management:** `npm`.
-*   **Code Structure:** Main application logic resides in `src/index.js`, with clear function separation for different features.
-*   **Command-line Interface:** Utilizes `process.argv` for basic mode selection.
+*   `seratojs`: For interacting with Serato library data (crates, sessions).
+*   `csv-parse`: For parsing exported Serato history CSV files.
+*   `music-metadata`: For reading detailed metadata (BPM, Key, etc.) from audio files.

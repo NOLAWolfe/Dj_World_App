@@ -23,6 +23,8 @@ async function getTrackMetadata(filePath) {
             artist: common.artist || 'Unknown Artist',
             bpm: common.bpm || null,
             key: common.key || null,
+            comment: common.comment ? common.comment.join(' ') : null, // Include the comment/energy
+            filePath: filePath, // Include the file path in the output
         };
     } catch (error) {
         console.error(`Could not read metadata for: ${filePath}`, error.message);

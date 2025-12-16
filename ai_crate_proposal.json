@@ -1,0 +1,1789 @@
+{
+  "proposal_id": "prop_1765925068610",
+  "proposed_crates": [
+    {
+      "id": "closing_time_mix",
+      "name": "AI - Closing Time Mix",
+      "track_count": 169,
+      "tracks": [
+        {
+          "artist": "Lady Gaga",
+          "title": "Just Dance (Intro Clean)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Lady Gaga - Just Dance (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Robin Thicke ft T.I. and Pharrell",
+          "title": "Blurred Lines (Intro Outro) (Clean)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/TROY 2/Robin Thicke ft T.I. and Pharrell - Blurred Lines (Intro Outro) (Clean)_PN.mp3"
+        },
+        {
+          "artist": "Anime",
+          "title": "Caroline (Intro Clean)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Anime - Caroline (Intro Clean).mp3"
+        },
+        {
+          "artist": "Pussycat Dolls ft Busta Rhymes",
+          "title": "Don't Cha (Remix) (Intro Clean)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Pussycat Dolls ft Busta Rhymes - Don't Cha (Remix) (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Rihanna",
+          "title": "Don't Stop The Music (Deville Club Quick HItter) Clean - Beat Out",
+          "bpm": 123,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/Rihanna - Dont Stop The Music (Deville Club Quick HItter) Clean - Beat Out 11A 123.mp3"
+        },
+        {
+          "artist": "The Black Eyed Peas",
+          "title": "My Humps (Refresh Epic Intro) (Clean Extended)",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/The Black Eyed Peas - My Humps (Refresh Epic Intro) (Clean Extended).mp3"
+        },
+        {
+          "artist": "Sabrina Carpenter",
+          "title": "Taste (Cosmic Dawn Extended Remix)",
+          "bpm": 121,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/gregHaul/XmixCrateDownload (60)/Sabrina Carpenter - Taste (Cosmic Dawn Extended Remix).mp3"
+        },
+        {
+          "artist": "Bell Biv DeVoe",
+          "title": "Poison (Sergio Villanueva Remix) (Dirty Extended)",
+          "bpm": 122,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Halloween Haul/Bell Biv DeVoe - Poison (Sergio Villanueva Remix) (Dirty Extended)_PN.mp3"
+        },
+        {
+          "artist": "Sean Paul vs Random Soul",
+          "title": "Get Busy (Cesar Castilla Disco House Edit) (Clean)",
+          "bpm": 122,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sean Paul vs Random Soul - Get Busy (Cesar Castilla Disco House Edit) (Clean)_PN.mp3"
+        },
+        {
+          "artist": "Sean Paul",
+          "title": "Temperature (Intro Clean)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Sean Paul - Temperature (Intro Clean).mp3"
+        },
+        {
+          "artist": "Katy Perry",
+          "title": "Teenage Dream (Deville Club Mix) Clean",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/Katy Perry - Teenage Dream (Deville Club Mix) Clean 6B 125.mp3"
+        },
+        {
+          "artist": "Flo Rida ft Kesha",
+          "title": "Right Round (Intro Dirty)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/JulyHaul/Flo Rida ft Kesha - Right Round (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Rihanna ft Drake",
+          "title": "Work (Jesus Fernandez Remix) (Clean Extended)",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/7:12BassHouse/Rihanna ft Drake - Work (Jesus Fernandez Remix) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Maroon 5",
+          "title": "Sugar (Intro Dirty)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Maroon 5 - Sugar (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Kesha",
+          "title": "TiK ToK",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/TiK ToK Kesha_PN.mp3"
+        },
+        {
+          "artist": "Soulja Boy Tell 'Em",
+          "title": "Pretty Boy Swag (Intro Dirty)",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Soulja Boy Tell 'Em - Pretty Boy Swag (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "SIDEPIECE & Lee Foss",
+          "title": "1, 2 Step",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/PioneerDJ/Imported from Device/Contents/SIDEPIECE & Lee Foss/UnknownAlbum/SIDEPIECE & Lee Foss - 1, 2 Step.mp3"
+        },
+        {
+          "artist": "Far East Movement ft The Cataracs & Dev",
+          "title": "Like A G6 (Intro Clean)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Far East Movement ft The Cataracs & Dev - Like A G6 (Intro Clean).mp3"
+        },
+        {
+          "artist": "Pitbull ft Lil Jon",
+          "title": "Krazy (Intro Dirty)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Pitbull ft Lil Jon - Krazy (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Will.I.Am ft Britney Spears",
+          "title": "Scream & Shout (Intro Dirty)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Will.I.Am ft Britney Spears - Scream & Shout (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Nicki Minaj, FISHER",
+          "title": "Starships (Deville Jamming House Edit) Clean",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Nicki Minaj, FISHER - Starships (Deville Jamming House Edit) Clean 10A 126_PN.mp3"
+        },
+        {
+          "artist": "LMFAO vs Aurelios",
+          "title": "Sexy And I Know It (Muzik Junkies House Jump Off Edit) (Clean)",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/LMFAO vs Aurelios - Sexy And I Know It (Muzik Junkies House Jump Off Edit) (Clean)_PN.mp3"
+        },
+        {
+          "artist": "Drake",
+          "title": "NOKIA (Club Killers Party Booster) Dirty",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/Drake - NOKIA (Club Killers Party Booster) Dirty 11A 128.mp3"
+        },
+        {
+          "artist": "Missy Elliot ft Ciara & Fat Man Scoop",
+          "title": "Lose Control (Cesar Castilla Break Intro) (Dirty Extended)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Missy Elliot ft Ciara & Fat Man Scoop - Lose Control (Cesar Castilla Break Intro) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Gnarls Barkley",
+          "title": "Crazy - Beatz Freq Get Down Edit",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Gnarls Barkley - Crazy - Beatz Freq Get Down Edit_PN.mp3"
+        },
+        {
+          "artist": "Drake",
+          "title": "Massive (KREAM Remix) (Clean Extended)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Drake - Massive (KREAM Remix) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Sisqo, Gigi Saldana",
+          "title": "Thong Song (Deville Poolside Mix) Dirty",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/JulyHaul/Sisqo, Gigi Saldana - Thong Song (Deville Poolside Mix) Dirty 11A 125_PN.mp3"
+        },
+        {
+          "artist": "Eve ft Gwen Stefani",
+          "title": "Let Me Blow Ya Mind (DJ Nasa PoolSide Remix) (Dirty Extended)",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Sundaze/Eve ft Gwen Stefani - Let Me Blow Ya Mind (DJ Nasa PoolSide Remix) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Sir Mix-A-Lot",
+          "title": "Baby Got Back (Intro Dirty)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Halloween Haul/Sir Mix-A-Lot - Baby Got Back (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Nicki Minaj",
+          "title": "Anaconda (Intro Dirty)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Nicki Minaj - Anaconda (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Nicki Minaj",
+          "title": "Super Freaky Girl (Intro Dirty)",
+          "bpm": 133,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:12:23 BPM Supreme/Nicki Minaj - Super Freaky Girl (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Fergie ft Will.I.Am",
+          "title": "Fergalicious (Intro Dirty)",
+          "bpm": 129,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul 2/Fergie ft Will.I.Am - Fergalicious (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Flo Rida ft T-Pain",
+          "title": "Low (Intro Dirty)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Auntie/Flo Rida ft T-Pain - Low (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Usher feat Pitbull vs DJ Snake",
+          "title": "DJ Got Us Fallin In Love (BPM Supreme Slam Edit) (Clean Extended)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Usher ft Pitbull vs DJ Snake - DJ Got Us Fallin In Love (BPM Supreme Slam Edit) (Clean Extended).mp3"
+        },
+        {
+          "artist": "Fetty Wap, Sebastian Ingrosso, Tommy Trash, Cheyenne Giles",
+          "title": "Trap Queen (DJ OD 'Reload' Edit) Dirty",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Documents/DB/Fetty Wap, Sebastian Ingrosso, Tommy Trash, Cheyenne Giles - Trap Queen (DJ OD 'Reload' Edit) Dirty 8A 126.mp3"
+        },
+        {
+          "artist": "A$AP Ferg vs Tiesto & R3HAB",
+          "title": "Work (Remix) (Smassh Mainstage Edit) Dirty",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/11-15-23 CHIKA PARTY/AAP Ferg vs Tiesto & R3HAB - Work (Remix) (Smassh Mainstage Edit) Dirty 2A 126_PN.mp3"
+        },
+        {
+          "artist": "Cloonee, Young M.A & InntRaw",
+          "title": "Stephanie (Extended Mix) Dirty",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Sundaze25HouseHaul/Cloonee, Young M.A & InntRaw - Stephanie (Extended Mix) Dirty 11A 130.mp3"
+        },
+        {
+          "artist": "LMFAO ft Lil Jon",
+          "title": "Shots (Intro Dirty)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8-18-23 Pre Jacks/LMFAO ft Lil Jon - Shots (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Flo Rida, Will.i.Am, Bingo Players, Marty Marvel",
+          "title": "In The Ayer (Deville 2025 'Rattle' VIP) Dirty",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Feburary Moose/Flo Rida, Will.i.Am, Bingo Players, Marty Marvel - In The Ayer (Deville 2025 Rattle VIP) Dirty 4A 128.mp3"
+        },
+        {
+          "artist": "Nelly Furtado ft. Timbaland vs boslyk",
+          "title": "Promiscuous (Smassh 2024 Edit) Clean",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/JulyHaul/Nelly Furtado ft. Timbaland vs boslyk - Promiscuous (Smassh 2024 Edit) Clean 4A 128_PN.mp3"
+        },
+        {
+          "artist": "The Killers vs FTampa vs Beatbreaker vs Bounce Inc",
+          "title": "Mr. Brightside (Mister Gray Rock The Place Edit) (Clean Extended)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/The Killers vs FTampa vs Beatbreaker vs Bounce Inc - Mr. Brightside (Mister Gray Rock The Place Edit) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Rihanna",
+          "title": "S&M (Dj Mila & Degan Edit) Dirty",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/1725754911_73742/Rihanna - S&M (Dj Mila & Degan Edit) Dirty 2A 128_PN.mp3"
+        },
+        {
+          "artist": "Icona Pop ft Charli XCX",
+          "title": "I Love It (Intro Dirty)",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Icona Pop ft Charli XCX - I Love It (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Rockwell, Smack, Swanky Tunes",
+          "title": "Somebody's Watching Me (Club Killers 2023 Spooky Bootleg) Clean",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/FiestaOCT/Rockwell, Smack, Swanky Tunes - Somebodys Watching Me (Club Killers 2023 Spooky Bootleg) Clean 5A 126_PN.mp3"
+        },
+        {
+          "artist": "Kid Cudi ft Ratatat & MGMT",
+          "title": "Pursuit Of Happiness (Steve Aoki Remix) (Dirty Extended)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Kid Cudi ft Ratatat & MGMT - Pursuit Of Happiness (Steve Aoki Remix) (Dirty Extended)_PN.mp3"
+        },
+        {
+          "artist": "Gotye ft Kimbra",
+          "title": "Somebody That I Used To Know (Tiger Toast Remix) Clean",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Feburary Moose/Gotye ft Kimbra - Somebody That I Used To Know (Tiger Toast Remix) Clean 6A 130.mp3"
+        },
+        {
+          "artist": "Doechii",
+          "title": "Anxiety (DJ Nasa Remix) (Dirty Extended)",
+          "bpm": 129,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/Doechii - Anxiety (DJ Nasa Remix) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Usher ft Will.I.Am",
+          "title": "OMG (Intro Clean)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/SummerHaul/Usher ft Will.I.Am - OMG (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Waka Flocka Flame ft Roscoe Dash & Wale",
+          "title": "No Hands (Intro Dirty)",
+          "bpm": 132,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul 2/Waka Flocka Flame ft Roscoe Dash & Wale - No Hands (Intro Dirty).mp3"
+        },
+        {
+          "artist": "David Guetta ft Kid Cudi",
+          "title": "Memories (Refresh Personal Edit) (Dirty Extended)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/David Guetta ft Kid Cudi - Memories (Refresh Personal Edit) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Lloyd",
+          "title": "Get It Shawty (Intro Clean)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Lloyd - Get It Shawty (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Taio Cruz",
+          "title": "Dynamite (JPTheDJ Acapella Break Edit) (Clean Extended)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/DecHaul/Taio Cruz - Dynamite (JPTheDJ Acapella Break Edit) (Clean Extended).mp3"
+        },
+        {
+          "artist": "Mr. C The Slide Man",
+          "title": "Cha Cha Slide (Intro Clean)",
+          "bpm": 122,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/9-1-23 Jacks/Mr. C The Slide Man - Cha Cha Slide (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Cardi B ft Megan Thee Stallion",
+          "title": "WAP (MR. COLLIPARK Remix) (Dirty Short Edit)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Cardi B ft Megan Thee Stallion - WAP (MR. COLLIPARK Remix) (Dirty Short Edit)_PN.mp3"
+        },
+        {
+          "artist": "Megan Thee Stallion ft DaBaby",
+          "title": "Cry Baby (Intro Dirty)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/11-4-23 Union/Megan Thee Stallion ft DaBaby - Cry Baby (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "David Guetta & Bebe Rexha",
+          "title": "I'm Good (Blue) (Clean Extended)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/David Guetta & Bebe Rexha - I'm Good (Blue) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Far East Movement ft The Cataracs & Dev",
+          "title": "Like A G6 (R-You Bootleg) (Clean Extended)",
+          "bpm": 132,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Far East Movement ft The Cataracs & Dev - Like A G6 (R-You Bootleg) (Clean Extended).mp3"
+        },
+        {
+          "artist": "Sosa UK & Kidoo",
+          "title": "Mezcal Bounce (Extended Mix) Clean",
+          "bpm": 132,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Sundaze25HouseHaul/Sosa UK & Kidoo - Mezcal Bounce (Extended Mix) Clean 3A 132.mp3"
+        },
+        {
+          "artist": "Fergie ft Ludacris",
+          "title": "Glamorous (Intro Clean)",
+          "bpm": 131,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul 2/Fergie ft Ludacris - Glamorous (Intro Clean).mp3"
+        },
+        {
+          "artist": "David Guetta ft Akon",
+          "title": "Sexy Bitch (Smassh Epic Synth Quick Hitter) Dirty",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/JulyHaul/David Guetta ft Akon  - Sexy Bitch (Smassh Epic Synth Quick Hitter) Dirty 9B 130_PN.mp3"
+        },
+        {
+          "artist": "The Black Eyed Peas",
+          "title": "Boom Boom Pow (Intro Dirty)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8-18-23 Pre Jacks/The Black Eyed Peas - Boom Boom Pow (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Justin Bieber ft Ludacris",
+          "title": "Baby (Intro Clean)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/12-30 NYE/Justin Bieber ft Ludacris - Baby (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Drake",
+          "title": "What's Next (Intro Dirty)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:12:23 BPM Supreme/Drake - What's Next (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Drake vs Round Table Knights & Chris Lorenzo",
+          "title": "Sticky (Cesar Castilla 'Calypso' Vip Edit) (Dirty)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/PioneerDJ/Imported from Device/Contents/Drake vs Round Table Knights & Chris Lorenzo/UnknownAlbum/Drake vs Round Table Knights & Chris Lorenzo.mp3"
+        },
+        {
+          "artist": "blanc",
+          "title": "Cloonee - Sippin' Yak",
+          "bpm": 127,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Sundaze25HouseHaul/Cloonee - Sippin' Yak.mp3"
+        },
+        {
+          "artist": "Maroon 5 ft Christina Aguilera vs Fisher",
+          "title": "Moves Like Jagger (R-You Bootleg) (Clean Extended)",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Maroon 5 ft Christina Aguilera vs Fisher - Moves Like Jagger (R-You Bootleg) (Clean Extended).mp3"
+        },
+        {
+          "artist": "Kendrick Lamar, BADDIES ONLY, Cavalli",
+          "title": "Bitch Don't Kill My Vibe (Deville Poolside House Edit) Dirty",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Documents/DB/Kendrick Lamar, BADDIES ONLY, Cavalli - Bitch Don't Kill My Vibe (Deville Poolside House Edit) Dirty 4A 126.mp3"
+        },
+        {
+          "artist": "Rihanna vs Tchami",
+          "title": "Pour It Up (DJ Nasa VIP Edit) (Clean Extended)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/9-17-23 RETOX/Rihanna vs Tchami - Pour It Up (DJ Nasa VIP Edit) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Nicki Minaj",
+          "title": "Starships (Refresh Epic Intro) (Dirty Extended)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Nicki Minaj - Starships (Refresh Epic Intro) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Ray Parker Jr vs Lil John & LMFAO",
+          "title": "Shot Busters (Halloween Party Starter) (Dirty) (Extended)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Halloween Haul/Ray Parker Jr vs Lil John & LMFAO - Shot Busters (Halloween Party Starter) (Dirty) (Extended)_PN.mp3"
+        },
+        {
+          "artist": "John Legend",
+          "title": "Nervous (Xan Griffin Remix) (Clean Extended)",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/John Legend - Nervous (Xan Griffin Remix) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Taio Cruz",
+          "title": "Dynamite (Intro Clean)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Taio Cruz - Dynamite (Intro Clean).mp3"
+        },
+        {
+          "artist": "Sabrina Carpenter",
+          "title": "Bed Chem (Dark Intensity Remix) Clean",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/Sabrina Carpenter - Bed Chem (Dark Intensity Remix) Clean 10A 124.mp3"
+        },
+        {
+          "artist": "Diplo & Sidepiece",
+          "title": "On My Mind (Clean Extended)",
+          "bpm": 123,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/7:12BassHouse/Diplo & Sidepiece - On My Mind (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Field Mob ft Ciara",
+          "title": "So What (Intro Clean)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Field Mob ft Ciara - So What (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Robin Thicke ft Pharrell & T.I.",
+          "title": "Blurred Lines (Intro Dirty)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Robin Thicke ft Pharrell & T.I. - Blurred Lines (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "The Notorious B.I.G",
+          "title": "Big Poppa (Father and Son Edit) (Clean Extended)",
+          "bpm": 122,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/1-21 Toms/The Notorious B.I.G - Big Poppa (Father and Son Edit) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Tinashe",
+          "title": "No Broke Boys (DJ OD Disco Edit) Clean",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/July4Haul/Tinashe - No Broke Boys (DJ OD Disco Edit) Clean 1A 124.mp3"
+        },
+        {
+          "artist": "Bruno Mars",
+          "title": "That's What I Like (Intro Dirty)",
+          "bpm": 134,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8-18-23 Pre Jacks/Bruno Mars - That's What I Like (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "The Weeknd ft Anitta",
+          "title": "São Paulo (Intro Dirty)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/The Weeknd ft Anitta - Sao Paulo (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Rihanna ft Britney Spears",
+          "title": "S&M (Remix) (DJ Nasa Remix) (Clean Extended)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Halloween Haul/Rihanna ft Britney Spears - S&M (Remix) (DJ Nasa Remix) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Deee Lite",
+          "title": "Groove Is In The Heart (Ellaime Edit)",
+          "bpm": 127,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/gregHaul/XmixCrateDownload (63)/Deee Lite - Groove Is In The Heart (Ellaime Edit).mp3"
+        },
+        {
+          "artist": "Bob Marley",
+          "title": "Jamming (Fisher Remix) (JD Live Club Edit) Clean",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/FUNKSHUN/Bob Marley - Jamming (Fisher Remix) (JD Live Club Edit) Clean 126 10A_PN.mp3"
+        },
+        {
+          "artist": "Nelly",
+          "title": "Hot In Here (Steff da Campo Remix)",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Steff da Campo - Hot In Here (Official Music Video)_PN.mp3"
+        },
+        {
+          "artist": "Jason Derulo & David Guetta",
+          "title": "Down (DJ Nasa PoolSide Edit) (Clean Extended)",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Jason Derulo & David Guetta - Down (DJ Nasa PoolSide Edit) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "OutKast, Sleepy Brown",
+          "title": "The Way You Move (Party Essentials Remix) clean",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/TROY 2/The Way You Move (Party Essentials Remix)_PN.mp3"
+        },
+        {
+          "artist": "Flo Rida ft Will.I.Am",
+          "title": "In The Ayer (Intro Clean)",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/JulyHaul/Flo Rida ft Will.I.Am - In The Ayer (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Soulja Boy Tell 'Em",
+          "title": "Pretty Boy Swag (Intro Clean)",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Soulja Boy Tell 'Em - Pretty Boy Swag (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Migos ft Lil Uzi Vert",
+          "title": "Bad & Boujee (Intro Clean)",
+          "bpm": 127,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:13:23-Pre BrunchVibez/Migos ft Lil Uzi Vert - Bad & Boujee (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "LMFAO",
+          "title": "Sexy And I Know It (Alvin Anthony Remix) (Dirty Extended)",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/7:12BassHouse/LMFAO - Sexy And I Know It (Alvin Anthony Remix) (Dirty Extended)_PN.mp3"
+        },
+        {
+          "artist": "The Black Eyed Peas",
+          "title": "My Humps (Refresh Epic Intro) (Dirty Extended)",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/The Black Eyed Peas - My Humps (Refresh Epic Intro) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Rick James",
+          "title": "Super Freak (Cesar Castilla Guitar Intro) (Clean Extended)",
+          "bpm": 131,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Disco/Rick James - Super Freak (Cesar Castilla Guitar Intro) (Clean Extended).mp3"
+        },
+        {
+          "artist": "Nicki Minaj",
+          "title": "Super Freaky Girl (Muzik Junkies Halloween Edit) (Clean Extended)",
+          "bpm": 133,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Halloween Haul/Nicki Minaj - Super Freaky Girl (Muzik Junkies Halloween Edit) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Rihanna",
+          "title": "Don't Stop The Music (Intro Clean)",
+          "bpm": 123,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Rihanna - Don't Stop The Music (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Sage The Gemini vs Fisher",
+          "title": "Gas Pedal (R-You Bootleg) (Dirty Extended)",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/9-23-23 Boombox/Sage The Gemini vs Fisher - Gas Pedal (R-You Bootleg) (Dirty Extended)_PN.mp3"
+        },
+        {
+          "artist": "Field Mob ft Ciara",
+          "title": "So What (Intro Dirty)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Field Mob ft Ciara - So What (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Leon Thomas",
+          "title": "Mutt (Bustin Timberfake Nu Disco Banger) Dirty",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/July4Haul/Leon Thomas - Mutt (Bustin Timberfake Nu Disco Banger) Dirty 4A 120.mp3"
+        },
+        {
+          "artist": "Dr. Dre & Snoop Dogg",
+          "title": "Nuthin' But A G Thang (Alex Dreamz Remix) Dirty Dub",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/NYE Haul 25/Dr. Dre & Snoop Dogg - Nuthin But A G Thang (Alex Dreamz Remix) Dirty Dub 9A 120.mp3"
+        },
+        {
+          "artist": "Missy Elliot ft Ciara & Fat Man Scoop",
+          "title": "WTF (Where They From) (Intro Clean)",
+          "bpm": 121,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Missy Elliot ft Ciara & Fat Man Scoop - WTF (Where They From) (Intro Clean).mp3"
+        },
+        {
+          "artist": "Anime",
+          "title": "Caroline (Intro Dirty)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Anime - Caroline (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Pussycat Dolls ft Busta Rhymes",
+          "title": "Don't Cha (Remix) (Intro Dirty)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Pussycat Dolls ft Busta Rhymes - Don't Cha (Remix) (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Benson Boone",
+          "title": "Mystical Magical (Intro Clean)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/July4Haul/Benson Boone - Mystical Magical (Intro Clean).mp3"
+        },
+        {
+          "artist": "Luther Vandros vs Block & Crown",
+          "title": "Never Too Much (Ardent Nu-Disco Edit) Clean",
+          "bpm": 123,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/12-30 NYE/Luther Vandros vs Block & Crown - Never Too Much (Ardent Nu-Disco Edit) Clean 9A 123_PN.mp3"
+        },
+        {
+          "artist": "Chappell Roan vs Vassy",
+          "title": "Pink Pony Club (JD Live House Bootleg) Clean",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/Chappell Roan vs Vassy - Pink Pony Club (JD Live House Bootleg) Clean 2A 124.mp3"
+        },
+        {
+          "artist": "Shermanology",
+          "title": "Silly Games (Cesar Castilla Tulum Selection Edit) (Clean)",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Sundaze25HouseHaul/Shermanology - Silly Games (Cesar Castilla Tulum Selection Edit) (Clean).mp3"
+        },
+        {
+          "artist": "Mark Morrison",
+          "title": "Return Of The Mack (Duke Jones Remix)",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/gregHaul/XmixCrateDownload (63)/Mark Morrison - Return Of The Mack (Duke Jones Remix).mp3"
+        },
+        {
+          "artist": "Kanye West ft Lupe Fiasco vs Da Hool, Joel Corry",
+          "title": "Touch The Sky (R-You Bootleg) (Clean Extended)",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/PioneerDJ/Imported from Device/Contents/Kanye West ft Lupe Fiasco vs Da Hool, Joel Corry/UnknownAlbum/Kanye West ft Lupe Fiasco vs Da Hool, Joel C.mp3"
+        },
+        {
+          "artist": "Ludacris vs Pickle",
+          "title": "Area Codes (JD Live Bootleg) Dirty",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/PioneerDJ/Imported from Device/Contents/Ludacris vs Pickle/UnknownAlbum/Ludacris vs Pickle - Area Codes (JD Live Boo.mp3"
+        },
+        {
+          "artist": "Rihanna vs Joel Corry",
+          "title": "Pour It Up (R-You Bootleg) (Clean Extended)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Rihanna vs Joel Corry - Pour It Up (R-You Bootleg) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Pitbull ft Lil Jon",
+          "title": "Krazy (Intro Clean)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Pitbull ft Lil Jon - Krazy (Intro Clean).mp3"
+        },
+        {
+          "artist": "Cupid ft 69 Boyz",
+          "title": "Flex (Remix) (Intro Clean)",
+          "bpm": 121,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Auntie/Cupid ft 69 Boyz - Flex (Remix) (Intro Clean).mp3"
+        },
+        {
+          "artist": "Gwen Stefani vs Curbi",
+          "title": "Hollaback Too Much (David Puentez Mashup) (Dirty Extended)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/PioneerDJ/Imported from Device/Contents/Gwen Stefani vs Curbi/UnknownAlbum/Gwen Stefani vs Curbi - Hollaback Too Much (.mp3"
+        },
+        {
+          "artist": "Kanye West",
+          "title": "Can't Tell Me Nothing (DJ Nasa Remix) (Clean Extended)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:12:23 BPM Supreme/Kanye West - Can't Tell Me Nothing (DJ Nasa Remix) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Kanye West",
+          "title": "Mercy (Mike Gray Remix) (Clean)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/gregHaul/XmixCrateDownload (62)/Kanye West - Mercy (Mike Gray Remix) (Clean).mp3"
+        },
+        {
+          "artist": "Cardi B",
+          "title": "Bodak Yellow (Los Dutis House Remix) (Dirty Extended)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Feb Jacks/Cardi B - Bodak Yellow (Los Dutis House Remix) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Fergie ft Ludacris",
+          "title": "Glamorous (Intro Dirty)",
+          "bpm": 131,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul 2/Fergie ft Ludacris - Glamorous (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Lola Young",
+          "title": "Messy (BVRNOUT Remix) Dirty",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/Lola Young - Messy (BVRNOUT Remix) Dirty 11A 130.mp3"
+        },
+        {
+          "artist": "Bad Bunny & Rauw Alejandro",
+          "title": "Party (Cesar Castilla Jump Off Edit) (Clean)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Bad Bunny & Rauw Alejandro - Party (Cesar Castilla Jump Off Edit) (Clean)_PN.mp3"
+        },
+        {
+          "artist": "LMFAO",
+          "title": "Sexy & I Know It (Intro Clean)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/LMFAO - Sexy & I Know It (Intro Clean).mp3"
+        },
+        {
+          "artist": "Nelly Furtado",
+          "title": "Maneater (Rob Rivera Remix) (Clean Extended)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Sundaze/Nelly Furtado - Maneater (Rob Rivera Remix) (Clean Extended).mp3"
+        },
+        {
+          "artist": "Rockwell",
+          "title": "Somebody's Watching Me (DJ Nasa Epic Intro) (Clean Extended)",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Halloween Haul/Rockwell - Somebody's Watching Me (DJ Nasa Epic Intro) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Ne-Yo",
+          "title": "Closer (Intro Clean)",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Ne-Yo - Closer (Intro Clean).mp3"
+        },
+        {
+          "artist": "Muni Long ft Mariah Carey",
+          "title": "Made For Me (Remix) (Intro Clean)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/SummerHaul/Muni Long ft Mariah Carey - Made For Me (Remix) (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Jeremih",
+          "title": "Oui (Clean)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Jeremih - Oui (Clean)_PN.mp3"
+        },
+        {
+          "artist": "Jay Sean",
+          "title": "Down (feat. Lil Wayne)",
+          "bpm": 132,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/Down (feat. Lil Wayne) Jay Sean_PN.mp3"
+        },
+        {
+          "artist": "City Girls ft Usher",
+          "title": "Good Love (Intro Dirty)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:12:23 BPM Supreme/City Girls ft Usher - Good Love (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Mau P, FISHER",
+          "title": "The Dress Code Is Take It Off (Deville Wordplay Edit) Clean",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/12-30 NYE/Mau P, FISHER - The Dress Code Is Take It Off (Deville Wordplay Edit) Clean 12A 128_PN.mp3"
+        },
+        {
+          "artist": "War",
+          "title": "Low Rider (Kyle Watson Remix)",
+          "bpm": 129,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Funk House Haul/Low Rider (Kyle Watson Remix) (320kbps)_PN.mp3"
+        },
+        {
+          "artist": "Diplo",
+          "title": "Express Yourself (Mochakk Remix) (Clean Extended)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/7:12BassHouse/Diplo - Express Yourself (Mochakk Remix) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Rihanna vs James Hype",
+          "title": "We Found Love (Cesar Castilla Miami Sunset Edit) (Clean Extended)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Rihanna vs James Hype - We Found Love (Cesar Castilla Miami Sunset Edit) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "The Black Eyed Peas",
+          "title": "I Gotta Feeling (Intro Clean)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul 2/The Black Eyed Peas - I Gotta Feeling (Intro Clean).mp3"
+        },
+        {
+          "artist": "Will.I.Am ft Britney Spears",
+          "title": "Scream & Shout (Intro Clean)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Will.I.Am ft Britney Spears - Scream & Shout (Intro Clean).mp3"
+        },
+        {
+          "artist": "Sir Mix-A-Lot",
+          "title": "Baby Got Back (Intro Clean)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Halloween Haul/Sir Mix-A-Lot - Baby Got Back (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Rihanna",
+          "title": "Don't Stop The Music - Spryte Kick It With Me Edit",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Rihanna - Don't Stop The Music - Spryte Kick It With Me Edit_PN.mp3"
+        },
+        {
+          "artist": "Deep Daze",
+          "title": "Mars (Pretty Boy Swag) (Clean Extended)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/11-7-23 Zahra Party/Deep Daze - Mars (Pretty Boy Swag) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Leon Thomas",
+          "title": "Mutt (Bustin Timberfake Nu Disco Banger) Clean",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/July4Haul/Leon Thomas - Mutt (Bustin Timberfake Nu Disco Banger) Clean 4A 120.mp3"
+        },
+        {
+          "artist": "50 Cent",
+          "title": "Candy Shop (BORNZI Edit) (Clean Short Edit)",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/50 Cent - Candy Shop (BORNZI Edit) (Clean Short Edit)_PN.mp3"
+        },
+        {
+          "artist": "Pitbull ft Lil Jon",
+          "title": "Krazy (BeatBreaker 'Calabria' Edit) (Dirty Extended)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Halloween 25/Pitbull ft Lil Jon - Krazy (BeatBreaker 'Calabria' Edit) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Migos ft Lil Uzi Vert",
+          "title": "Bad & Boujee (Rivas & Sell Out MC Remix) (Dirty Extended)",
+          "bpm": 127,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/9-1-23 Jacks/Migos ft Lil Uzi Vert - Bad & Boujee (Rivas & Sell Out MC Remix) (Dirty Extended)_PN.mp3"
+        },
+        {
+          "artist": "Jason Derulo & David Guetta",
+          "title": "Down (DJ Nasa PoolSide Edit) (Dirty Extended)",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Jason Derulo & David Guetta - Down (DJ Nasa PoolSide Edit) (Dirty Extended)_PN.mp3"
+        },
+        {
+          "artist": "Black V Neck",
+          "title": "Rewind It Back",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/10-13-23 HALLOMANGA 2/[YT2mp3.info] - Black V Neck - Rewind It Back (320kbps)_PN.mp3"
+        },
+        {
+          "artist": "Icona Pop & Charli XCX vs John Summit & Hayla",
+          "title": "I Love It vs Where You Are (Even Steve Wordplay Segue) Clean",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/NYE Haul 25/Icona Pop & Charli XCX vs John Summit & Hayla - I Love It vs Where You Are (Even Steve Wordplay Segue) Clean 8A 126.mp3"
+        },
+        {
+          "artist": "Rihanna",
+          "title": "Disturbia (JPTheDJ Hype Edit) (Dirty Extended)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Halloween 25/Rihanna - Disturbia (JPTheDJ Hype Edit) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Rihanna ft Calvin Harris",
+          "title": "We Found Love (Refresh Epic Intro) (Clean Extended)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Feb Jacks/Rihanna ft Calvin Harris - We Found Love (Refresh Epic Intro) (Clean Extended).mp3"
+        },
+        {
+          "artist": "Nicki Minaj",
+          "title": "Anaconda (DJ Nasa Remix) (Dirty Extended)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Halloween 25/Nicki Minaj - Anaconda (DJ Nasa Remix) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Nicki Minaj",
+          "title": "Super Freaky Girl (Muzik Junkies Halloween Edit) (Dirty Extended)",
+          "bpm": 133,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Halloween Haul/Nicki Minaj - Super Freaky Girl (Muzik Junkies Halloween Edit) (Dirty Extended)_PN.mp3"
+        },
+        {
+          "artist": "David Guetta ft Kid Cudi",
+          "title": "Memories (Dirty Extended)",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/David Guetta ft Kid Cudi - Memories (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Kid Cudi",
+          "title": "Maui Wowie (DJ OD Epic Intro) Dirty",
+          "bpm": 123,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Halloween 25/Kid Cudi - Maui Wowie (DJ OD Epic Intro) Dirty 3A 123.mp3"
+        },
+        {
+          "artist": "Drake",
+          "title": "Which One (Intro Dirty)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Drake - Which One (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Kendrick Lamar, BADDIES ONLY, Cavalli",
+          "title": "Bitch Don't Kill My Vibe (Deville Poolside House Edit) Clean",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Documents/DB/Kendrick Lamar, BADDIES ONLY, Cavalli - Bitch Don't Kill My Vibe (Deville Poolside House Edit) Clean 4A 126.mp3"
+        },
+        {
+          "artist": "Nelly Furtado ft Timbaland",
+          "title": "Promiscuous (Tiger Toast Remix) Clean CK Cut",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/Nelly Furtado ft Timbaland - Promiscuous (Tiger Toast Remix) Clean CK Cut 2A 126.mp3"
+        },
+        {
+          "artist": "Usher feat. Pitbull",
+          "title": "DJ Got Us Fallin In Love (XMiX Short Cut)",
+          "bpm": 120,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/gregHaul/SHORT CUTZ/Usher feat. Pitbull - DJ Got Us Fallin In Love (XMiX Short Cut).mp3"
+        },
+        {
+          "artist": "Bon Jovi",
+          "title": "Livin' On a Prayer",
+          "bpm": 123,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/Livin' On a Prayer Bon Jovi_PN.mp3"
+        },
+        {
+          "artist": "Smash Mouth",
+          "title": "Walkin' On The Sun (Intro Dirty)",
+          "bpm": 123,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Smash Mouth - Walkin' On The Sun (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Rihanna",
+          "title": "Disturbia (Intro Clean)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul 2/Rihanna - Disturbia (Intro Clean).mp3"
+        },
+        {
+          "artist": "Sabrina Carpenter",
+          "title": "Good Graces (Intro Dirty)",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Sabrina Carpenter - Good Graces (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Katy Perry",
+          "title": "Fireworks (Dj Mila Bootleg) Clean",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/1725754911_73742/Katy Perry - Fireworks (Dj Mila Bootleg) Clean 3A 128_PN.mp3"
+        },
+        {
+          "artist": "Zedd feat Foxes",
+          "title": "Clarity (Original)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Zedd feat Foxes - Clarity (Original).mp3"
+        },
+        {
+          "artist": "Kevin McKay, Pupa Nas T & Denise Belfon",
+          "title": "Work (R-You Slam Edit) (Clean Extended)",
+          "bpm": 128,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/11-7-23 Zahra Party/Kevin McKay, Pupa Nas T & Denise Belfon - Work (R-You Slam Edit) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "The Killers vs MAKJ",
+          "title": "Mr. Brightside (JD Live 2025 Edit) Clean",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/The Killers vs MAKJ - Mr Brightside (JD Live 2025 Edit) Clean 3A 126.mp3"
+        },
+        {
+          "artist": "LMFAO ft Lil Jon vs Tigerblind",
+          "title": "Shots (JD Live Low Battery Edit) Dirty",
+          "bpm": 130,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/LMFAO ft Lil Jon vs Tigerblind -Shots (JD Live Low Battery Edit) Dirty 4A 130.mp3"
+        },
+        {
+          "artist": "T-Pain",
+          "title": "Club Husband (Sergio Villanueva Remix) (Dirty Extended)",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Halloween 25/T-Pain - Club Husband (Sergio Villanueva Remix) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Icona Pop & Charli XCX vs John Summit & Hayla",
+          "title": "I Love It vs Where You Are (Even Steve Wordplay Segue) Dirty",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/NYE Haul 25/Icona Pop & Charli XCX vs John Summit & Hayla - I Love It vs Where You Are (Even Steve Wordplay Segue) Dirty 8A 126.mp3"
+        },
+        {
+          "artist": "Benny Benassi",
+          "title": "Satisfaction (Villanueva vs Guetta Remix) (Clean Extended)",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Benny Benassi - Satisfaction (Villanueva vs Guetta Remix) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Black Eyed Peas",
+          "title": "My Humps",
+          "bpm": 124,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/My Humps Black Eyed Peas_PN.mp3"
+        },
+        {
+          "artist": "Lola Young vs The Weeknd",
+          "title": "Messy (R-You Blend) (Dirty Extended)",
+          "bpm": 122,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/Lola Young vs The Weeknd - Messy (R-You Blend) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Megan Thee Stallion / Major Lazer",
+          "title": "Savage - Major Lazer Remix",
+          "bpm": 125,
+          "filePath": "/Users/avenue17/Music/PioneerDJ/Imported from Device/Contents/Megan Thee Stallion _ Major Lazer/Savage (Major Lazer Remix)/Megan Thee Stallion _ Major Lazer - Savage -.mp3"
+        },
+        {
+          "artist": "Drake",
+          "title": "Hotline Bling (Feli Botello Remix)",
+          "bpm": 123,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/gregHaul/XmixCrateDownload (63)/Drake - Hotline Bling (Feli Botello Remix).mp3"
+        },
+        {
+          "artist": "Lil Jon & Mau P",
+          "title": "Get Low with the Beats of the Underground (Los Padres Mashup) (Dirty Extended)",
+          "bpm": 126,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/NYE Haul 25/Lil Jon & Mau P - Get Low with the Beats of the Underground (Los Padres Mashup) (Dirty Extended).mp3"
+        }
+      ]
+    },
+    {
+      "id": "open_format_warmup",
+      "name": "AI - Open Format Warmup",
+      "track_count": 126,
+      "tracks": [
+        {
+          "artist": "Lorde",
+          "title": "Royals (Intro Clean)",
+          "bpm": 85,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul 2/Lorde - Royals (Intro Clean).mp3"
+        },
+        {
+          "artist": "Justin Bieber ft Daniel Caesar & Giveon",
+          "title": "Peaches (Intro Clean)",
+          "bpm": 90,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Justin Bieber ft Daniel Caesar & Giveon - Peaches (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "AnnenMayKantereit & Giant Rooks",
+          "title": "Tom's Diner",
+          "bpm": 96,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/Tom's Diner AnnenMayKantereit & Giant Rooks_PN.mp3"
+        },
+        {
+          "artist": "Lizzo",
+          "title": "About Damn Time (Intro Clean)",
+          "bpm": 109,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Lizzo - About Damn Time (Intro Clean) (1)_PN.mp3"
+        },
+        {
+          "artist": "DJ Snake ft Justin Bieber",
+          "title": "Let Me Love You (Intro Clean)",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul 2/DJ Snake ft Justin Bieber - Let Me Love You (Intro Clean).mp3"
+        },
+        {
+          "artist": "Estelle feat Kanye West",
+          "title": "American Boy (Intro Clean)",
+          "bpm": 118,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Jan Haul Jacks/Estelle feat Kanye West - American Boy (Intro Clean).mp3"
+        },
+        {
+          "artist": "Lil Wayne ft Static Major",
+          "title": "Lollipop (Intro Dirty)",
+          "bpm": 74,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Lil Wayne ft Static Major - Lollipop (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Plies ft T-Pain",
+          "title": "Shawty (Intro Dirty)",
+          "bpm": 79,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Plies ft T-Pain - Shawty (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Saweetie ft Doja Cat",
+          "title": "Best Friend (Intro Dirty)",
+          "bpm": 94,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:12:23 BPM Supreme/Saweetie ft Doja Cat - Best Friend (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Too Short",
+          "title": "Blow The Whistle (Intro Outro) (Clean)",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/TROY 2/(2K Throwback) Too Short - Blow The Whistle (Intro Outro) (Clean)_PN.mp3"
+        },
+        {
+          "artist": "Missy Elliott",
+          "title": "Pass That Dutch (Intro Dirty)",
+          "bpm": 111,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Missy Elliott - Pass That Dutch (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Young Money ft Lloyd",
+          "title": "BedRock (Intro Dirty)",
+          "bpm": 74,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Young Money ft Lloyd - BedRock (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Yo Gotti & Mike Will Made It ft Nicki Minaj",
+          "title": "Rake It Up (Intro Dirty)",
+          "bpm": 75,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/NYE Haul 25/Yo Gotti & Mike Will Made It ft Nicki Minaj - Rake It Up (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Moneybagg Yo ft Morgan Wallen",
+          "title": "WHISKEY WHISKEY (Intro Dirty)",
+          "bpm": 76,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/JulyHaul/Moneybagg Yo ft Morgan Wallen - WHISKEY WHISKEY (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Shaboozey",
+          "title": "A Bar Song (Tipsy) (Refresh Slam Edit) (Dirty Extended)",
+          "bpm": 81,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Shaboozey - A Bar Song (Tipsy) (Refresh Slam Edit) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Usher",
+          "title": "Yeah! (feat. Lil Jon & Ludacris)",
+          "bpm": 105,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/Yeah! (feat. Lil Jon & Ludacris) Usher_PN.mp3"
+        },
+        {
+          "artist": "Lil Jon & The East Side Boyz",
+          "title": "Get Low (feat. Ying Yang Twins)",
+          "bpm": 101,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Rap & RnB Haul/Get Low (feat. Ying Yang Twins)_PN.mp3"
+        },
+        {
+          "artist": "CIARA",
+          "title": "Goodies",
+          "bpm": 102,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/[YT2mp3.info] - Goodies (320kbps)_PN.mp3"
+        },
+        {
+          "artist": "Sabrina Carpenter vs Heavy D",
+          "title": "Espresso (Ardent 'Black Coffee' Intro) Dirty",
+          "bpm": 104,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/JulyHaul/Sabrina Carpenter vs Heavy D - Espresso (Ardent Black Coffee Intro) Dirty 8A 104_PN.mp3"
+        },
+        {
+          "artist": "Petey Pablo",
+          "title": "Freek-A-Leek",
+          "bpm": 105,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Rap & RnB Haul/Freek-A-Leek_PN.mp3"
+        },
+        {
+          "artist": "Timbaland ft Nelly Furtado & Justin Timberlake",
+          "title": "Give It To Me (Refresh Epic Intro) (Clean Extended)",
+          "bpm": 111,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Timbaland ft Nelly Furtado & Justin Timberlake - Give It To Me (Refresh Epic Intro) (Clean Extended).mp3"
+        },
+        {
+          "artist": "Ciara",
+          "title": "One, Two Step (feat. Missy Elliott)",
+          "bpm": 113,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/One, Two Step (feat. Missy Elliott) Ciara_PN.mp3"
+        },
+        {
+          "artist": "Ginuwine",
+          "title": "Pony",
+          "bpm": 71,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Rap & RnB Haul/Pony_PN.mp3"
+        },
+        {
+          "artist": "T-Pain ft Yung Joc",
+          "title": "Buy U A Drank (Shawty Snappin') (Intro Clean)",
+          "bpm": 80,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/T-Pain ft Yung Joc - Buy U A Drank (Shawty Snappin') (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Kendrick Lamar ft Jay Rock",
+          "title": "Money Trees (Intro Dirty)",
+          "bpm": 72,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/SummerHaul/Kendrick Lamar ft Jay Rock - Money Trees (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Aaliyah",
+          "title": "Rock The Boat (Onderkoffer Remix) CK Intro - Clean",
+          "bpm": 112,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/Aaliyah - Rock The Boat (Onderkoffer Remix) CK Intro - Clean 6A 112.mp3"
+        },
+        {
+          "artist": "Missy Elliott",
+          "title": "Pass That Dutch (Intro Clean)",
+          "bpm": 111,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Missy Elliott - Pass That Dutch (Intro Clean).mp3"
+        },
+        {
+          "artist": "Lizzo",
+          "title": "About Damn Time (Intro Dirty)",
+          "bpm": 109,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Lizzo - About Damn Time (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Post Malone & Swae Lee vs Many & Rema",
+          "title": "Sunflower (Cesar Castilla Blend) (Clean Extended)",
+          "bpm": 105,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8-18-23 Pre Jacks/Post Malone & Swae Lee vs Many & Rema - Sunflower (Cesar Castilla Blend) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Tears For Fears",
+          "title": "Everybody Wants To Rule The World (Intro Clean)",
+          "bpm": 112,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8-18-23 Pre Jacks/Tears For Fears - Everybody Wants To Rule The World (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Suzanne Vega & DNA",
+          "title": "Tom's Diner (7\" A)",
+          "bpm": 99,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/Tom's Diner (7_ A) Suzanne Vega & DNA_PN.mp3"
+        },
+        {
+          "artist": "Lynyrd Skynyrd",
+          "title": "Sweet Home Alabama",
+          "bpm": 98,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/Sweet Home Alabama Lynyrd Skynyrd_PN.mp3"
+        },
+        {
+          "artist": "Maroon 5",
+          "title": "This Love",
+          "bpm": 95,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/This Love Maroon 5_PN.mp3"
+        },
+        {
+          "artist": "Snoop Dogg ft Pharrell & Charlie Wilson",
+          "title": "Beautiful (Intro Clean)",
+          "bpm": 101,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Jan Haul Jacks/Snoop Dogg ft Pharrell & Charlie Wilson - Beautiful (Intro Clean).mp3"
+        },
+        {
+          "artist": "Lauryn Hill",
+          "title": "Doo Wop (That Thing)",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Rap & RnB Haul/Doo Wop (That Thing)_PN.mp3"
+        },
+        {
+          "artist": "Chris Brown ft Davido & Lojay",
+          "title": "Sensational (Intro Clean)",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/12-30 NYE/pt2/Chris Brown ft Davido & Lojay - Sensational (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Chris Brown ft Juelz Santana",
+          "title": "Run It (Remix) (Intro Outro) (Clean)",
+          "bpm": 101,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/TROY 2/(2K Throwback) Chris Brown ft Juelz Santana - Run It (Remix) (Intro Outro) (Clean)_PN.mp3"
+        },
+        {
+          "artist": "Gwen Stefani",
+          "title": "Hollaback Girl (Intro Clean)",
+          "bpm": 110,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8-18-23 Pre Jacks/Gwen Stefani - Hollaback Girl (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Kardinal Offishall feat Akon",
+          "title": "Dangerous (Intro Clean)",
+          "bpm": 117,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Kardinal Offishall feat Akon - Dangerous (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Meghan Trainor",
+          "title": "Criminals (ellis Remix) (XMiX Xpress Edit)",
+          "bpm": 118,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/gregHaul/XmixCrateDownload (56)/Meghan Trainor - Criminals (ellis Remix) (XMiX Xpress Edit).mp3"
+        },
+        {
+          "artist": "Mike Will Made It ft Miley Cyrus, Wiz Khalifa, & Juicy J",
+          "title": "23 (Intro Clean)",
+          "bpm": 70,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/NYE Haul 25/Mike Will Made It ft Miley Cyrus, Wiz Khalifa, & Juicy J - 23 (Intro Clean).mp3"
+        },
+        {
+          "artist": "Moneybagg Yo ft Morgan Wallen",
+          "title": "WHISKEY WHISKEY (Intro Clean)",
+          "bpm": 76,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/JulyHaul/Moneybagg Yo ft Morgan Wallen - WHISKEY WHISKEY (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Plies ft T-Pain",
+          "title": "Shawty (Intro Clean)",
+          "bpm": 79,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Plies ft T-Pain - Shawty (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Big Sean ft Nicki Minaj",
+          "title": "Dance (Ass) (Remix) (Intro Clean)",
+          "bpm": 80,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Big Sean ft Nicki Minaj - Dance (Ass) (Remix) (Intro Clean).mp3"
+        },
+        {
+          "artist": "Megan Thee Stallion ft Beyonce",
+          "title": "Savage (Remix) (Intro Clean)",
+          "bpm": 84,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:12:23 BPM Supreme/Megan Thee Stallion ft Beyonce - Savage (Remix) (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Yung Joc",
+          "title": "It's Goin' Down (Intro Clean)",
+          "bpm": 84,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Auntie/Yung Joc - It's Goin' Down (Intro Clean).mp3"
+        },
+        {
+          "artist": "Snoop Dogg ft Pharrell",
+          "title": "Drop It Like It's Hot (Intro Dirty)",
+          "bpm": 92,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:12:23 BPM Supreme/Snoop Dogg ft Pharrell - Drop It Like It's Hot (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Timbaland ft Nelly Furtado & Justin Timberlake",
+          "title": "Give It To Me (Intro Dirty)",
+          "bpm": 111,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Auntie/Timbaland ft Nelly Furtado & Justin Timberlake - Give It To Me (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Nelly",
+          "title": "Hot In Herre (Intro Dirty)",
+          "bpm": 107,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/DecHaul/Nelly - Hot In Herre (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Sean Paul",
+          "title": "Gimme The Light (Intro Dirty)",
+          "bpm": 107,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Sean Paul - Gimme The Light (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Iyaz",
+          "title": "Replay (Frequency X 'Lonely At The Top' Afro Blend) Clean",
+          "bpm": 105,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/12-30 NYE/Iyaz - Replay (Frequency X Lonely At The Top Afro Blend) Clean 11A 105_PN.mp3"
+        },
+        {
+          "artist": "Akon",
+          "title": "Bananza (Belly Dancer) [12\" Version]",
+          "bpm": 105,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Rap & RnB Haul/Bananza (Belly Dancer) [12_ Version]_PN.mp3"
+        },
+        {
+          "artist": "50 Cent vs Franc Moody",
+          "title": "Disco Inferno (Even Steve Funk Edit) Intro - Dirty",
+          "bpm": 103,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/NYE Haul 25/50 Cent vs Franc Moody - Disco Inferno (Even Steve Funk Edit) Intro - Dirty 6A 103.mp3"
+        },
+        {
+          "artist": "Journey",
+          "title": "Don't Stop Believin'",
+          "bpm": 118,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/Don't Stop Believin' Journey_PN.mp3"
+        },
+        {
+          "artist": "Usher, 21 Savage & Summer Walker",
+          "title": "Good Good (Intro Dirty)",
+          "bpm": 71,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:12:23 BPM Supreme/Usher, 21 Savage & Summer Walker - Good Good (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "GloRilla",
+          "title": "TGIF (Cesar Castilla R&B Blend) (Dirty Extended)",
+          "bpm": 70,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Jan Haul Jacks/GloRilla - TGIF (Cesar Castilla R&B Blend) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "GloRilla",
+          "title": "TGIF (Cesar Castilla R&B Blend) (Clean Extended)",
+          "bpm": 70,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Jan Haul Jacks/GloRilla - TGIF (Cesar Castilla R&B Blend) (Clean Extended).mp3"
+        },
+        {
+          "artist": "Migos ft Gucci Mane",
+          "title": "Slippery (Intro Clean)",
+          "bpm": 71,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Migos ft Gucci Mane - Slippery (Intro Clean).mp3"
+        },
+        {
+          "artist": "Wiz Khalifa ft Too Short",
+          "title": "On My Level (Intro Clean)",
+          "bpm": 72,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/NYE Haul 25/Wiz Khalifa ft Too Short - On My Level (Intro Clean).mp3"
+        },
+        {
+          "artist": "Lil Wayne ft Static Major",
+          "title": "Lollipop (Intro Clean)",
+          "bpm": 74,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Lil Wayne ft Static Major - Lollipop (Intro Clean).mp3"
+        },
+        {
+          "artist": "California Swag District",
+          "title": "Teach Me How To Dougie (Intro Dirty)",
+          "bpm": 85,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/7:12BPMSUPMusic/California Swag District - Teach Me How To Dougie (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "V.I.C",
+          "title": "Wobble Baby (Intro Dirty)",
+          "bpm": 95,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8-18-23 Pre Jacks/V.I.C - Wobble Baby (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Doechii",
+          "title": "NISSAN ALTIMA (Intro Clean)",
+          "bpm": 117,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/Doechii - NISSAN ALTIMA (Intro Clean).mp3"
+        },
+        {
+          "artist": "Akon ft Snoop Dogg",
+          "title": "I Wanna Love You (Intro Dirty)",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Akon ft Snoop Dogg - I Wanna Love You (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Saweetie ft Post Malone, DaBaby & Jack Harlow",
+          "title": "Tap In (Intro Dirty)",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:12:23 BPM Supreme/Saweetie ft Post Malone, DaBaby & Jack Harlow - Tap In (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Ciara",
+          "title": "Goodies (feat. Petey Pablo)",
+          "bpm": 102,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/Goodies (feat. Petey Pablo) Ciara_PN.mp3"
+        },
+        {
+          "artist": "Ying Yang Twins",
+          "title": "Wait (The Whisper Song)",
+          "bpm": 102,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Rap & RnB Haul/Wait (The Whisper Song)_PN.mp3"
+        },
+        {
+          "artist": "Chief Keef & Mustard",
+          "title": "Shake Dat (Intro Dirty)",
+          "bpm": 102,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Chief Keef & Mustard - Shake Dat (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Notorious B.I.G.",
+          "title": "Big Poppa (BPM Supreme 'Pool Side' Remix) (Dirty Extended)",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8-18-23 Pre Jacks/Notorious B.I.G. - Big Poppa (BPM Supreme 'Pool Side' Remix) (Dirty Extended)_PN.mp3"
+        },
+        {
+          "artist": "Missy Elliott",
+          "title": "Get Ur Freak On - Tall Boys Remix (Dirty)",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Missy Elliott - Get Ur Freak On - Tall Boys Remix (Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Busta Rhymes",
+          "title": "Put Your Hands Where My Eyes Could See - Anthem Kingz Dicmatized Edit (Dirty)",
+          "bpm": 101,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Busta Rhymes - Put Your Hands Where My Eyes Could See - Anthem Kingz Dicmatized Edit (Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Erykah Badu",
+          "title": "On & On (Intro Clean)",
+          "bpm": 80,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/TG Haul/Erykah Badu - On & On (Intro Clean).mp3"
+        },
+        {
+          "artist": "Ashanti ft The Notorious B.I.G.",
+          "title": "Unfoolish (Intro Clean)",
+          "bpm": 91,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Auntie/Ashanti ft The Notorious B.I.G. - Unfoolish (Intro Clean).mp3"
+        },
+        {
+          "artist": "Eminem ft Rihanna",
+          "title": "Love The Way You Lie (Intro Clean)",
+          "bpm": 87,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Jan Haul Jacks/Eminem ft Rihanna - Love The Way You Lie (Intro Clean).mp3"
+        },
+        {
+          "artist": "Blackstreet ft Dr. Dre & Queen Pen",
+          "title": "No Diggity (Intro Clean)",
+          "bpm": 89,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Blackstreet ft Dr. Dre & Queen Pen - No Diggity (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Lil Dicky ft Chris Brown",
+          "title": "Freaky Friday (Intro Clean)",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/11-4-23 Union/Lil Dicky ft Chris Brown - Freaky Friday (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "T-Pain",
+          "title": "I'm Sprung",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Rap & RnB Haul/I'm Sprung_PN.mp3"
+        },
+        {
+          "artist": "Shaboozey vs Ne-Yo",
+          "title": "A Bar Song (JD Live Lounge Edit Chrous Intro) Dirty",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/JulyHaul/Shaboozey vs Ne-Yo - A Bar Song (JD Live Lounge Edit Chrous Intro) Dirty 11A 100_PN.mp3"
+        },
+        {
+          "artist": "Yung Joc",
+          "title": "It's Goin' Down (Refresh Epic Intro) (Dirty Extended)",
+          "bpm": 84,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Yung Joc - It's Goin' Down (Refresh Epic Intro) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Nelly",
+          "title": "E.I. (Intro Dirty)",
+          "bpm": 90,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Nelly - E.I. (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Iyaz",
+          "title": "Replay (Intro Clean)",
+          "bpm": 91,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Iyaz - Replay (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Eric Bellinger ft TeeFLii & Pleasure P",
+          "title": "Valet (Intro Clean)",
+          "bpm": 94,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/SummerHaul/Eric Bellinger ft TeeFLii & Pleasure P - Valet (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Big Pun ft Joe",
+          "title": "Still Not A Player (Intro Clean)",
+          "bpm": 94,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:13:23-Pre BrunchVibez/Big Pun ft Joe - Still Not A Player (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Method Man ft Mary J Blige",
+          "title": "I'll Be There (You're All I Need To Get By) (Puff Daddy Mix) (Intro Dirty)",
+          "bpm": 95,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:13:23-Pre BrunchVibez/Method Man ft Mary J Blige - I'll Be There (You're All I Need To Get By) (Puff Daddy Mix) (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Kardinal Offishall ft Akon",
+          "title": "Dangerous (Intro Dirty)",
+          "bpm": 117,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Kardinal Offishall ft Akon - Dangerous (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Estelle feat Kanye West",
+          "title": "American Boy (Intro Dirty)",
+          "bpm": 118,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Jan Haul Jacks/Estelle feat Kanye West - American Boy (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Doechii vs Bad Bunny",
+          "title": "Nissan Altima vs Nuevayol (Triple A Blend) (Clean Extended)",
+          "bpm": 117,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/Doechii vs Bad Bunny - Nissan Altima vs Nuevayol (Triple A Blend) (Clean Extended).mp3"
+        },
+        {
+          "artist": "Sabrina Carpenter",
+          "title": "Taste (Intro Clean)",
+          "bpm": 113,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Sabrina Carpenter - Taste (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "803Fresh",
+          "title": "Boots On The Ground (Intro Clean)",
+          "bpm": 111,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Auntie/803Fresh - Boots On The Ground (Intro Clean).mp3"
+        },
+        {
+          "artist": "Rick Ross ft Nelly & Avery Storm",
+          "title": "Here I Am (Intro Clean)",
+          "bpm": 110,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/DecHaul/Rick Ross ft Nelly & Avery Storm - Here I Am (Intro Clean).mp3"
+        },
+        {
+          "artist": "Jack Harlow",
+          "title": "Lovin on Me (Intro Dirty)",
+          "bpm": 105,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/12-30 NYE/pt2/Jack Harlow - Lovin On Me (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "103 Frankie Beverly & Maze",
+          "title": "Before I Let Go",
+          "bpm": 103,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/TROY 2/103 Frankie Beverly & Maze - Before I Let Go_PN.mp3"
+        },
+        {
+          "artist": "Pete Rock & C.L. Smooth",
+          "title": "They Reminisce Over You (T.R.O.Y.) (Intro Clean)",
+          "bpm": 102,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:13:23-Pre BrunchVibez/Pete Rock & C.L. Smooth - They Reminisce Over You (T.R.O.Y.) (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Akon ft Snoop Dogg",
+          "title": "I Wanna Love You (Intro Clean)",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Akon ft Snoop Dogg - I Wanna Love You (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Jay-Z and Kanye West",
+          "title": "Niggas In Paris (Intro Clean)",
+          "bpm": 70,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/7:12BPMSUPMusic/Jay-Z and Kanye West - Niggas In Paris (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Migos ft Drake",
+          "title": "Walk It Talk It (Intro Clean)",
+          "bpm": 73,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/DecHaul/Migos ft Drake - Walk It Talk It (Intro Clean).mp3"
+        },
+        {
+          "artist": "Lil Wayne",
+          "title": "A Milli (Dirty) (Extended)",
+          "bpm": 76,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:13:23-Pre BrunchVibez/Lil Wayne - A Milli (Dirty) (Extended)_PN.mp3"
+        },
+        {
+          "artist": "Jay-Z ft Rihanna & Kanye West",
+          "title": "Run This Town (Intro Dirty)",
+          "bpm": 85,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Jan Haul Jacks/Jay-Z ft Rihanna & Kanye West - Run This Town (Intro Dirty).mp3"
+        },
+        {
+          "artist": "The Notorious B.I.G.",
+          "title": "Big Poppa (Muzik Junkies Break Intro) (Dirty Extended)",
+          "bpm": 85,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/NYE Haul 25/The Notorious B.I.G. - Big Poppa (Muzik Junkies Break Intro) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "50 Cent",
+          "title": "In Da Club (BPM Supreme Slam Edit) (Dirty Extended)",
+          "bpm": 90,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/9-1-23 Jacks/50 Cent - In Da Club (BPM Supreme Slam Edit) (Dirty Extended)_PN.mp3"
+        },
+        {
+          "artist": "Snoop Dogg ft Pharrell",
+          "title": "Drop It Like It's Hot (Cesar Castilla Epic Slam Intro) (Dirty Extended)",
+          "bpm": 92,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Snoop Dogg ft Pharrell - Drop It Like It's Hot (Cesar Castilla Epic Slam Intro) (Dirty Extended).mp3"
+        },
+        {
+          "artist": "Outkast",
+          "title": "Ms. Jackson",
+          "bpm": 95,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Rap & RnB Haul/Ms. Jackson_PN.mp3"
+        },
+        {
+          "artist": "Shaggy ft Rik Rok",
+          "title": "It Wasn't Me (Intro Clean)",
+          "bpm": 95,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/DecHaul/Shaggy ft Rik Rok - It Wasn't Me (Intro Clean).mp3"
+        },
+        {
+          "artist": "Kodak Black ft Travis Scott & Offset",
+          "title": "ZEZE (Intro Dirty)",
+          "bpm": 98,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:12:23 BPM Supreme/Kodak Black ft Travis Scott & Offset - ZEZE (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Sage The Gemini ft Iamsu!",
+          "title": "Gas Pedal (Cesar Castilla Blend) (Clean Extended)",
+          "bpm": 98,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Jan Haul Jacks/Sage The Gemini ft Iamsu! - Gas Pedal (Cesar Castilla Blend) (Clean Extended).mp3"
+        },
+        {
+          "artist": "Busta Rhymes ft Jamal",
+          "title": "Put Your Hands Where My Eyes Could See (Intro Dirty)",
+          "bpm": 99,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Busta Rhymes ft Jamal - Put Your Hands Where My Eyes Could See (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Jay-Z ft Pharrell",
+          "title": "I Just Wanna Love You (Intro Dirty)",
+          "bpm": 99,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8-18-23 Pre Jacks/Jay-Z ft Pharrell - I Just Wanna Love You (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Cassie",
+          "title": "Me & You (Intro Clean)",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:13:23-Pre BrunchVibez/Cassie - Me & You (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Kendrick Lamar",
+          "title": "Not Like Us (Intro Dirty)",
+          "bpm": 101,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/SummerHaul/Kendrick Lamar - Not Like Us (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "CIARA",
+          "title": "Goodies Clean Edit",
+          "bpm": 102,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/[YT2mp3.info] - Ciara Goodies Clean Edit (320kbps)_PN.mp3"
+        },
+        {
+          "artist": "Nelly ft City Spud",
+          "title": "Ride Wit Me (Intro Dirty)",
+          "bpm": 102,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:13:23-Pre BrunchVibez/Nelly ft City Spud - Ride Wit Me (Intro Dirty)_PN.mp3"
+        },
+        {
+          "artist": "Jay-Z ft Rihanna & Kanye West",
+          "title": "Run This Town (Intro Clean)",
+          "bpm": 85,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/Jan Haul Jacks/Jay-Z ft Rihanna & Kanye West - Run This Town (Intro Clean).mp3"
+        },
+        {
+          "artist": "Shaggy",
+          "title": "It Wasn't Me (feat. Ricardo Ducent)",
+          "bpm": 95,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/It Wasn't Me (feat. Ricardo Ducent) Shaggy_PN.mp3"
+        },
+        {
+          "artist": "Shaboozey vs Ne-Yo",
+          "title": "A Bar Song (JD Live Lounge Edit) Dirty",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/JulyHaul/Shaboozey vs Ne-Yo - A Bar Song (JD Live Lounge Edit) Dirty 11A 100_PN.mp3"
+        },
+        {
+          "artist": "CAMEO",
+          "title": "CANDY clean",
+          "bpm": 110,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/TROY 2/03 CANDY_PN.mp3"
+        },
+        {
+          "artist": "Gwen Stefani",
+          "title": "Hollaback Girl (DJ Nasa Epic Intro) (Dirty Extended)",
+          "bpm": 110,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Halloween Haul/Gwen Stefani - Hollaback Girl (DJ Nasa Epic Intro) (Dirty Extended)_PN.mp3"
+        },
+        {
+          "artist": "DJ Kool",
+          "title": "Let Me Clear My Throat",
+          "bpm": 102,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/TROY 2/DJ Kool - Let Me Clear My Throat (Funky Mix 24)_PN.mp3"
+        },
+        {
+          "artist": "Doja Cat",
+          "title": "Paint The Town Red (Intro Clean)",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8:12:23 BPM Supreme/Doja Cat - Paint The Town Red (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "Missy Elliott",
+          "title": "Get Ur Freak On (Phranco Remix) (Clean Extended)",
+          "bpm": 100,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/8-18-23 Pre Jacks/Missy Elliott - Get Ur Freak On (Phranco Remix) (Clean Extended)_PN.mp3"
+        },
+        {
+          "artist": "Chris Brown",
+          "title": "Loyal (feat. Lil Wayne & Tyga)",
+          "bpm": 99,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/DJ Set/Loyal (feat. Lil Wayne & Tyga) Chris Brown_PN.mp3"
+        },
+        {
+          "artist": "Nelly Furtado ft Timbaland",
+          "title": "Say It Right (Intro Clean)",
+          "bpm": 117,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Sep Haul/Nelly Furtado ft Timbaland - Say It Right (Intro Clean)_PN.mp3"
+        },
+        {
+          "artist": "USHER",
+          "title": "Caught Up",
+          "bpm": 110,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/PlatinumNotes-Replace/Dj Downloads/Rap & RnB Haul/Caught Up_PN.mp3"
+        },
+        {
+          "artist": "Drake ft Lil Wayne",
+          "title": "The Motto (Intro Dirty)",
+          "bpm": 101,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/September25Haul/Drake ft Lil Wayne - The Motto (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Fred again.., Skepta & PlaqueBoyMax",
+          "title": "Victory Lap (Intro Dirty)",
+          "bpm": 70,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/July4Haul/Fred again.., Skepta & PlaqueBoyMax - Victory Lap (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Lil Wayne ft Bobby Valentino, Kidd Kidd",
+          "title": "Mrs Officer (Intro Dirty)",
+          "bpm": 84,
+          "filePath": "/Users/avenue17/Music/Dj Downloads/jacks apr/Lil Wayne ft Bobby Valentino, Kidd Kidd - Mrs Officer (Intro Dirty).mp3"
+        },
+        {
+          "artist": "Serato",
+          "title": "Scratch Beat 4",
+          "bpm": 85,
+          "filePath": "/Users/avenue17/Music/_Serato_/Imported/Scratch Beats_/ScratchBeat4.mp3"
+        }
+      ]
+    }
+  ]
+}
